@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSampleConstraintLayout01</string>
+    <string name="str_forgot_passwaord">Forgot Password?</string>
+    <string name="str_sign_up">Sign Up for Facebook</string>
+    <string name="str_log_in">Log In</string>
+    <string name="str_email_or_phone">Email or Phone</string>
+    <string name="str_password">Password</string>
+</resources>
